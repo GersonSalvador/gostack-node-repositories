@@ -2,7 +2,7 @@
 
 This app store your repositories. You even can give them a like.
 
-## :rocket:
+## :rocket: Abtout the chalanged
 
 Chalenged by RockeSeat for BootCamp GoStack
 
@@ -18,7 +18,7 @@ Chalenged by RockeSeat for BootCamp GoStack
 
 - **`POST /repositories/:id/like`**
 
-#### What you shoukd be able to:
+### What you shoukd be able to:
 
 - **`should be able to create a new repository`**
 
