@@ -2,7 +2,7 @@
 
 This app store your repositories. You even can give them a like.
 
-## :rocket
+## :rocket:
 
 Chalenged by RockeSeat for BootCamp GoStack
 
